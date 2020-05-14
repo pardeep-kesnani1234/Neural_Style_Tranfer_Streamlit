@@ -1,1 +1,1 @@
-# Neural_Style_Tranfer_Streamlit
+# img_classification_streamlit

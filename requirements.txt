@@ -1,5 +1,5 @@
 streamlit==0.59.0
-numpy==1.18.1
+numpy==1.22.0
 opencv-contrib-python-headless==4.2.0.34
 Pillow==7.1.2
 requests==2.22.0
